@@ -1,0 +1,82 @@
+*{margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    text-transform: uppercase;
+    }
+
+    body{
+        background-image: url(../thewitcher/imagens/the\ witcher\ hell.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+       
+
+.nav-header{
+    display: flex;
+    padding-top: 2rem; 
+    
+   
+}
+.logo{
+    padding-left: 1rem; 
+
+}
+
+    .h1-header{
+        padding-top: 2rem; 
+        padding-left: 2rem;
+        font-size: 15px;
+      
+    }
+
+    ul{
+        padding-top: 2rem; 
+        padding-left: 30rem;
+        display: inline;
+        list-style: none;    
+    }
+
+    li{
+        display: inline;
+        font-size: 15px;
+        padding-left: 1rem;
+    }
+
+    a{
+        text-decoration: none;
+    }
+
+    a:hover{
+        font-size: 20px;
+        font-family: 'Montserrat';
+        font-weight: 800;
+    }
+
+ .back1{
+    height: auto;
+     background-image: url(../thewitcher/imagens/the\ witcher\ kavil2.png);
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+    }
+
+    .name{
+        position: relative;
+        padding-left: 27rem;
+        padding-top: 29rem;
+    }
+
+    .button{
+        padding-left: 30rem;
+
+    }
+
+    .paragraph{
+        width: 40%;
+        height: 40vh;
+        font-size: 10px;
+        font-weight: 600;
+        padding-top: 10rem;
+        padding-left: 1rem;
+    }
